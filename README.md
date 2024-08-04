@@ -1,36 +1,81 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Online_Document_Processor-NEXT.JS-Project-001
 
-## Getting Started
+# Online_Document_Processor
 
-First, run the development server:
+## Introduction
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+Online Document Processor is Google Docs Clone application for sharing and editing documents online.
+
+## Features
+
+- Sentry
+- Next.JS
+- Clear Auth
+- Liveblocks
+- Roles
+
+## How to use?
+
+- 0.Download the repository and extract it to folder
+- 1.Open the folder with Visual Studio Code
+- 2.npm install
+- 3.npm run dev
+- 4.Enjoy!
+
+**Set Up Environment Variables**
+
+Create a new file named `.env` in the root of your project and add the following content:
+
+```env
+#Clerk
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
+CLERK_SECRET_KEY=
+NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
+NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
+
+#Liveblocks
+NEXT_PUBLIC_LIVEBLOCKS_PUBLIC_KEY=
+LIVEBLOCKS_SECRET_KEY=
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Replace the placeholder values with your actual Clerk & LiveBlocks credentials. You can obtain these credentials by signing up on the [Clerk](https://clerk.com/) and [Liveblocks](liveblocks.io/) website.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Demo
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Live demo at Vercel -
 
-## Learn More
+## Photos
 
-To learn more about Next.js, take a look at the following resources:
+Email:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+![image](/public/assets/images/images/Email.png)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Login with Google:
+![image](/public/assets/images/images/LoginWithGoogle.png)
 
-## Deploy on Vercel
+All Documents:
+![image](/public/assets/images/images/AllDocuments.png)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Notifications:
+![image](/public/assets/images/images/Notifications.png)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Profile:
+![image](/public/assets/images/images/Profile.png)
+
+Security:
+![image](/public/assets/images/images/Security.png)
+
+Share Document:
+![image](/public/assets/images/images/ShareDocument.png)
+
+Sign in:
+![image](/public/assets/images/images/SignIn.png)
+
+Verify Email:
+![image](/public/assets/images/images/VarifyEmail.png)
+
+Dropdown:
+![image](/public/assets/images/images/dropdown.png)
+
+Advanced Editor With Comments And Emojis:
+![image](/public/assets/images/images/AdvancedEditorWithCommentsAndEmojis.png)
