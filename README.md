@@ -27,6 +27,8 @@ Live demo - https://online-document-processor-next-js-project-001.vercel.app
 
 ## Set Up Environment Variables
 
+Add enviroment variables from: [Clerk](https://clerk.com/) and [Liveblocks](liveblocks.io/) websites.
+
 Create a new file named `.env` in the root of your project and add the following content:
 
 ```env
@@ -40,8 +42,6 @@ NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
 NEXT_PUBLIC_LIVEBLOCKS_PUBLIC_KEY=
 LIVEBLOCKS_SECRET_KEY=
 ```
-
-Replace the placeholder values with your actual Clerk & LiveBlocks credentials. You can obtain these credentials by signing up on the [Clerk](https://clerk.com/) and [Liveblocks](liveblocks.io/) website.
 
 ## Photos
 
