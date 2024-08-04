@@ -12,7 +12,6 @@ Online Document Processor is Google Docs Clone application for sharing and editi
 - Next.JS
 - Clear Auth
 - Liveblocks
-- Roles
 
 ## How to use?
 
@@ -22,7 +21,7 @@ Online Document Processor is Google Docs Clone application for sharing and editi
 - 3.npm run dev
 - 4.Enjoy!
 
-**Set Up Environment Variables**
+## Set Up Environment Variables
 
 Create a new file named `.env` in the root of your project and add the following content:
 
@@ -46,18 +45,32 @@ Live demo at Vercel -
 
 ## Photos
 
-Email:
-
-![image](/public/assets/images/images/Email.png)
-
-Login with Google:
-![image](/public/assets/images/images/LoginWithGoogle.png)
-
 All Documents:
 ![image](/public/assets/images/images/AllDocuments.png)
 
+Dropdown:
+![image](/public/assets/images/images/dropdown.png)
+
 Notifications:
 ![image](/public/assets/images/images/Notifications.png)
+
+Advanced Editor - with Comments, Emojis and Tags:
+![image](/public/assets/images/images/AdvancedEditorWithCommentsAndEmojis.png)
+
+Share Document:
+![image](/public/assets/images/images/ShareDocument.png)
+
+Sign in page:
+![image](/public/assets/images/images/SignIn.png)
+
+Sign in with Google:
+![image](/public/assets/images/images/LoginWithGoogle.png)
+
+Verify Email:
+![image](/public/assets/images/images/VarifyEmail.png)
+
+Email Verification Code:
+![image](/public/assets/images/images/Email.png)
 
 Profile:
 ![image](/public/assets/images/images/Profile.png)
@@ -65,17 +78,4 @@ Profile:
 Security:
 ![image](/public/assets/images/images/Security.png)
 
-Share Document:
-![image](/public/assets/images/images/ShareDocument.png)
 
-Sign in:
-![image](/public/assets/images/images/SignIn.png)
-
-Verify Email:
-![image](/public/assets/images/images/VarifyEmail.png)
-
-Dropdown:
-![image](/public/assets/images/images/dropdown.png)
-
-Advanced Editor With Comments And Emojis:
-![image](/public/assets/images/images/AdvancedEditorWithCommentsAndEmojis.png)
