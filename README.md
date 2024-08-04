@@ -6,6 +6,10 @@ Online_Document_Processor-NEXT.JS-Project-001
 
 Online Document Processor is Google Docs Clone application for sharing and editing documents online.
 
+## Demo
+
+Live demo - https://online-document-processor-next-js-project-001.vercel.app
+
 ## Features
 
 - Sentry
@@ -38,10 +42,6 @@ LIVEBLOCKS_SECRET_KEY=
 ```
 
 Replace the placeholder values with your actual Clerk & LiveBlocks credentials. You can obtain these credentials by signing up on the [Clerk](https://clerk.com/) and [Liveblocks](liveblocks.io/) website.
-
-## Demo
-
-Live demo at Vercel -
 
 ## Photos
 
