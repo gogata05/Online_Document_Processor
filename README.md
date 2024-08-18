@@ -27,7 +27,7 @@ Live demo - https://online-document-processor-next-js-project-001.vercel.app
 
 ## Set Up Environment Variables
 
-Add enviroment variables from: [Clerk](https://clerk.com/) and [Liveblocks](liveblocks.io/) websites.
+Add enviroment variables from: [Clerk](https://clerk.com/) and [Liveblocks](https://liveblocks.io/) websites.
 
 Create a new file named `.env` in the root of your project and add the following content:
 
